@@ -191,6 +191,13 @@ const data = [{
     course: ''  
     ,avgCutOff:'175.16',
 },
+{
+    code: '1419',
+    name: 'Sri Sai Ram Enginering College (Autonomous)',
+    address: 'West Tambaram Chennai  ',
+    course: ''  
+    ,avgCutOff:'170.10',
+},
 
 ];
 
