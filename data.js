@@ -142,6 +142,35 @@ const data = [{
     course: ''  
     ,avgCutOff:'161.06',
 },
+{
+    code: '2719',
+    name: 'Sri Ramakrishna Engineering College (Autonomous)',
+    address: ' Vattamalaipalayam, Coimbatore',
+    course: ''  
+    ,avgCutOff:'166.48',
+},
+{
+    code: '2739',
+    name: 'Sri Eshwar College of Engineering (Autonomous)',
+    address: ' Kinathukadavu, Coimbatore',
+    course: ''  
+    ,avgCutOff:'171.95',
+},
+{
+    code: '2711',
+    name: 'Kongu Engineering College (Autonomous)',
+    address: ' Perundurai, Erode',
+    course: ''  
+    ,avgCutOff:'167.17',
+},
+{
+    code: '2025',
+    name: 'Anna University Regional Campus',
+    address: 'Coimbatore',
+    course: ''  
+    ,avgCutOff:'172.43',
+},
+
 ];
 
 export {data};
