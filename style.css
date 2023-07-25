@@ -1,0 +1,46 @@
+*{
+}
+table {
+    border-collapse: collapse;
+    width: 100%;
+  }
+  
+  th, td {
+    border: 1px solid black;
+    padding: 5px;
+  }
+  
+  th {
+    text-align: center;
+  }
+
+  /* td{
+    width: 10px;
+    overflow: hidden;
+  } */
+
+  @media (max-width: 768px) {
+    table {
+      width: 100%;
+    }
+  }
+
+  #overallBox{
+    display: flex;
+    flex-direction: column;
+    /* background-image:linear-gradient(rgba(0, 0, 0, 0.371),rgba(239, 255, 159, 0.318)), url("./assets/istockphoto-517188688-612x612.jpg"); */
+    background-repeat: no-repeat;
+    background-position-x: center;
+    background-size: cover;
+    margin-bottom: 100px;
+  }
+  .backImg{
+    display: flex;
+    justify-content: center;
+  }
+
+  #center{
+    display: flex;
+    justify-content: center;
+
+  }
