@@ -170,6 +170,27 @@ const data = [{
     course: ''  
     ,avgCutOff:'172.43',
 },
+{
+    code: '1432',
+    name: 'Rajalakshmi Institute of Technology',
+    address: 'Irulapalayam Kuthampakkam Post Kancheepuram District Chennai ',
+    course: ''  
+    ,avgCutOff:'175.92',
+},
+{
+    code: '1304',
+    name: 'Easwari Engineering College (Autonomous)',
+    address: 'Ramapuram Chennai ',
+    course: ''  
+    ,avgCutOff:'171.16',
+},
+{
+    code: '1112',
+    name: 'R M D Engineering College (Autonomous) ',
+    address: 'Kavaraipettai Gummidipoondi Thiruvallur ',
+    course: ''  
+    ,avgCutOff:'175.16',
+},
 
 ];
 
