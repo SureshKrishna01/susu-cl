@@ -193,6 +193,13 @@ const data = [{
     address: 'Nazarethpet, Poonamallee, Chennai ',
     course: 'CS, IT, EC, EE, CO, CB, AD, AM'  
     ,avgCutOff:'161.06',
+},
+{
+    code: '0000',
+    name: 'Panimalar Engineering College (Autonomous)',
+    address: 'Nazarethpet, Poonamallee, Chennai ',
+    course: 'CS, IT, EC, EE, CO, CB, AD, AM'  
+    ,avgCutOff:'161.06',
 }
 ];
 
