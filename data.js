@@ -196,7 +196,7 @@ const data = [{
 },
 {
     code: 'qqqqq',
-    name: 'Panimalar Engineering College (Autonomous)',
+    name: 'mohan Engineering College (Autonomous)',
     address: 'Nazarethpet, Poonamallee, Chennai ',
     course: 'CS, IT, EC, EE, CO, CB, AD, AM'  
     ,avgCutOff:'161.06',
