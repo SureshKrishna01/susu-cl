@@ -4,20 +4,6 @@ const tableBody = document.getElementById("table-body");
 const addCollegeForm = document.getElementById("add-college-form");
 
 
-const data1 = [{
-    code: 1,
-    name: 'Anna University ',
-    address: 'Coimbatore',
-    course: 'CSE'
-},
-{
-    code: 2,
-    name: 'ssn',
-    address: 'chennai',
-    course: 'CSE'
-},
-];
-
 
 
 for (const college of data) {
